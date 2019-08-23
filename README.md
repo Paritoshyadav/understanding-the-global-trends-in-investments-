@@ -1,5 +1,5 @@
-# understanding-the-global-trends-in-investments-
-Understand the global trends in investments so that we can take the investment decisions effectively. 
+# Understanding the global trends in investments 
+Understanding the global trends in investments so that we can take the investment decisions effectively. 
 
 #  Where did we get the data from? 
 I have taken real investment data from crunchbase.com, so the insights we get
@@ -58,3 +58,12 @@ by a pipe (vertical bar |). For example, one of the companies’ category_list i
 Application Platforms|Real Time|Social Network Media. 
 
 # Plot
+![Image of country by inv plot](https://github.com/Paritoshyadav/understanding-the-global-trends-in-investments-/blob/master/Images_plot/country%20by%20investment.PNG?raw=true)
+![Image of raised amount by inv plot](https://github.com/Paritoshyadav/understanding-the-global-trends-in-investments-/blob/master/Images_plot/raised%20amount%20by%20number%20of%20investment.PNG)
+- A plot showing the fraction of total investments (globally) in venture, seed, and
+private equity, and the average amount of investment in each funding type.
+- A plot showing the top 9 countries against the total amount of investments of
+funding type FT. This should make the top 3 countries (Country 1, Country 2,
+and Country 3) very clear
+- A plot showing the number of investments in the top 3 sectors of the top 3
+countries on one chart 
