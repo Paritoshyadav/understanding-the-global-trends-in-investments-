@@ -1,5 +1,5 @@
 # Understanding the global trends in investments 
-Understanding the global trends in investments so that we can take the investment decisions effectively. 
+Understanding the global trends in investments so that we can make investment decisions effectively. 
 
 #  Where did we get the data from? 
 I have taken real investment data from crunchbase.com, so the insights we get
